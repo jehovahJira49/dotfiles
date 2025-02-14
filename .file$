@@ -1,0 +1,19 @@
+# Code Citations
+
+## License: unknown
+[https://github.com/debopamgupta/dotfiles/tree/a92bf240f9004e76369742f2393c96f56845b137/GET_GOING.md][def]==[Matrix]
+
+```
+: {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+```
+
+
+
+[def]: https://github.com/debopamgupta/dotfiles/tree/a92bf240f9004e76369742f2393c96f56845b137/GET_GOING.md
